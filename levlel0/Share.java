@@ -1,3 +1,5 @@
+package levlel0;
+
 public class Share {
     class Solution {
         public int solution(int num1, int num2) {

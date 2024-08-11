@@ -1,3 +1,5 @@
+package levlel0;
+
 public class AgeOutput {
     class Solution {
         public int solution(int age) {

@@ -1,3 +1,5 @@
+package levlel0;
+
 public class ValueArray {
     class Solution {
         public double solution(int[] numbers) {

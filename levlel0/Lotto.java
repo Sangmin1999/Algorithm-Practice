@@ -1,3 +1,5 @@
+package levlel0;
+
 class Solution {
     public int[] solution(int[] lottos, int[] win_nums) {
         // 순위에 따른 당첨 개수를 담은 배열

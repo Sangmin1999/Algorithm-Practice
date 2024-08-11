@@ -1,3 +1,5 @@
+package levlel0;
+
 public class MultipliedNumber {
     public int solution(int num1, int num2) {
         int answer = 0;

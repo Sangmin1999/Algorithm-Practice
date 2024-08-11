@@ -1,3 +1,5 @@
+package levlel0;
+
 public class AddDivisors {
     class Solution {
         public int solution(int n) {
